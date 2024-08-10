@@ -1,5 +1,5 @@
 # StarVox's SPT 3.9.5 Graphics Configuration.  
-This is a companion document to my [mod list Notion page](https://shorturl.at/YkjIY) with supplementary information.  
+This is a companion document to my [SPT Notion guide](https://shorturl.at/YkjIY) with supplementary information.  
 
 ##
 
